@@ -29,7 +29,7 @@ git reset --hard 版本号(指针)  // 版本穿梭
 git branch 分支名  // 创建分支
 git branch -v  // 查看分支
 git checkout 分支名  // 切换分支
-git merge 分支名  // 把指定分支合并到当前分支上
+git merge 分支名  // 把指定分支合并到当前分支上  合并分支commit时不能带文件名
 
 Master test
 Hot-fix test
