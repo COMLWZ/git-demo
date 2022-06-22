@@ -34,7 +34,5 @@ git merge 分支名  // 把指定分支合并到当前分支上  合并分支com
 Master test
 Hot-fix test
 
-1招
-
 令狐冲
 东方不败
